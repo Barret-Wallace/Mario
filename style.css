@@ -1,0 +1,45 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#diverson{
+    width: 100%;
+    height: 50px;
+}
+#floater{
+    float: right;
+    margin-top: -50px;
+}
+#marioman{
+    width: 100%;
+}
+#play{
+    margin-left: 100px;
+}
+#stats{
+    margin-left: 112px;
+}
+#game{
+    margin-top: 10px;
+}
+video{
+    background-image: url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+.instmage{
+    width: 70%;
+    display: inline-block;
+}
+.footer{
+    position: fixed;
+    background-color: rgb(27, 32, 32);
+    color: white;
+    width: 100%;
+    bottom: 0px;
+}
